@@ -2,4 +2,4 @@
 This is only demo project.
 <br>
 
-Author - Chaitanya Waghaye
+Author - Chaitanya Waghaye / learner
